@@ -1,0 +1,13 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "ortizprascafernando@gmail.com ",
+                "Name": "Fernando Ortiz P"
+	    }
+	],
+	"Id": "Dramatic Pose",
+        "License": "CC-BY-SA-4.0",
+        "Name": "Dramatic Pose"
+    }
+}

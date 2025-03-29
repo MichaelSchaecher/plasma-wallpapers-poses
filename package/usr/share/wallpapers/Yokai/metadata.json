@@ -1,0 +1,15 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Instagram": "https://www.instagram.com/horribils/",
+                "Website": "",
+                "Name": "Iryna Skavronska"
+	        }
+	    ],
+	"Id": "Yokai",
+        "License": "CC-BY-SA-4.0",
+        "Name": "Yokai"
+    }
+}

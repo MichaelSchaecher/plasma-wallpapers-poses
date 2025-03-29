@@ -1,0 +1,18 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Twitter": "https://x.com/MERLINph",
+                "Instagram": "https://www.instagram.com/merlin.lightpainting",
+                "Website": "",
+                "Name": "Merlin Lightpainting"
+	        }
+	    ],
+	    "Id": "Woman In Colorful Light",
+        "License": "CC-BY-SA-4.0",
+        "Version": "1.0",
+        "Description": "Woman being surrounded by colorful light in a dark environment.",
+        "Name": "Woman In Colorful Light"
+    }
+}
